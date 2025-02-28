@@ -1,0 +1,58 @@
+[
+    {
+        "equipe1": {
+            "nom": "Rangers",
+            "cote": "2.45"
+        },
+        "X": {
+            "nom": "X",
+            "cote": "3.95"
+        },
+        "equipe2": {
+            "nom": "Maple Leafs",
+            "cote": "2.20"
+        }
+    },
+    {
+        "equipe1": {
+            "nom": "Stars",
+            "cote": "2.10"
+        },
+        "X": {
+            "nom": "X",
+            "cote": "3.85"
+        },
+        "equipe2": {
+            "nom": "Kings",
+            "cote": "2.65"
+        }
+    },
+    {
+        "equipe1": {
+            "nom": "Avalanche",
+            "cote": "1.45"
+        },
+        "X": {
+            "nom": "X",
+            "cote": "4.50"
+        },
+        "equipe2": {
+            "nom": "Wild",
+            "cote": "4.90"
+        }
+    },
+    {
+        "equipe1": {
+            "nom": "Islanders",
+            "cote": "2.10"
+        },
+        "X": {
+            "nom": "X",
+            "cote": "3.90"
+        },
+        "equipe2": {
+            "nom": "Predators",
+            "cote": "2.65"
+        }
+    }
+]
