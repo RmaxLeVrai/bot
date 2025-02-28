@@ -4,3 +4,4 @@ pandas
 joblib
 selenium
 bs4
+openpyxl
