@@ -1,0 +1,6 @@
+discord
+scikit-learn
+pandas
+joblib
+selenium
+bs4
